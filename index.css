@@ -1,0 +1,15 @@
+li{
+    list-style-type: none;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    overflow-x: hidden;
+  }
+  
+footer{
+    padding: 100px;
+}
