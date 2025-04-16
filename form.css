@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    overflow-x: hidden;
+    background-image: url(https://images.ctfassets.net/9tka4b3550oc/YvWH1Qe43iXVwPt2wytMj/afc53ab4c256377dc124a7f60030c713/Mobile_17__2_.png?q=75&w=640);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .container{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding: 75px;
+    margin-top: 50px;
+  }

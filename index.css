@@ -13,3 +13,8 @@ li{
 footer{
     padding: 100px;
 }
+.nav-link:hover{
+    background-color: red;
+    color: red;
+    cursor: pointer;
+}
